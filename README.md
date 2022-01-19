@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/gifs/hello.gif" alt="👋 Hi there! I'm (Vivek Kumar | https://####)"  align="center" title="👋 Hi there! I'm (Vivek Kumar | https://####)"/>](https://####/)
 
+<h2> Hi, I'm Vivek Kumar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥  𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
