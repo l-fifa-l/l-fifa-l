@@ -29,9 +29,9 @@ Trying to start off 8th semester well ......!!!
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊 𝚜𝚒𝚝𝚎 𝚏𝚘𝚛 𝚖𝚎𝚖𝚎𝚜
-	- 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚜𝚒𝚝𝚎 𝚏𝚘𝚛 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝚋𝚢 𝚍𝚘𝚒𝚗𝚐 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚘𝚞𝚛𝚜𝚎𝚜
+	- 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚜𝚒𝚝𝚎 𝚏𝚘𝚛 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍  𝚏𝚛𝚘𝚖 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚘𝚞𝚛𝚜𝚎𝚜
 	- 𝙻𝚎𝚊𝚛𝚗 𝙳𝚊𝚙𝚙 𝚊𝚗𝚍 𝚠𝚎𝚋𝟹
-	- 𝙻𝚎𝚊𝚛𝚗 𝚑𝚢𝚋𝚛𝚒𝚍 𝙰𝙿𝙿 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚖𝚎𝚗𝚝 𝚞𝚜𝚒𝚗𝚐 𝚛𝚎𝚊𝚌𝚝 𝚗𝚊𝚝𝚒𝚟𝚎 𝚘𝚛 𝚏𝚕𝚞𝚝𝚝𝚎𝚛
+	- 𝙻𝚎𝚊𝚛𝚗 𝚑𝚢𝚋𝚛𝚒𝚍 𝙰𝙿𝙿 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚖𝚎𝚗𝚝 𝚞𝚜𝚒𝚗𝚐 R𝚎𝚊𝚌𝚝 N𝚊𝚝𝚒𝚟𝚎 [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/react-native.svg" height="30em" width="50em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://reactnative.dev/) 𝚘𝚛 F𝚕𝚞𝚝𝚝𝚎𝚛 [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/flutter.svg" height="30em" width="50em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://flutter.dev/)
   
 
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
