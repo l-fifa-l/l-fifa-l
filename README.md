@@ -1,4 +1,4 @@
-[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/intro.gif" alt="👋 Hi there! I'm (Vivek(111|Kumar)|https://####)" title="👋 Hi there! I'm (Vivek(111|Kumar)|https://####)"/>](https://####/)
+[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/intro.gif" alt="👋 Hi there! I'm (Vivek Kumar|https://####)" title="👋 Hi there! I'm (Vivek Kumar|https://####)"/>](https://####/)
 
 <!--
 **l-fifa-l/l-fifa-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
