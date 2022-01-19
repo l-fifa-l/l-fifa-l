@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/gifs/hello.gif" alt="👋 Hi there! I'm (Vivek Kumar | https://####)" title="👋 Hi there! I'm (Vivek Kumar | https://####)"/>](https://####/)
+[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/gifs/hello.gif" alt="👋 Hi there! I'm (Vivek Kumar | https://####)" width="200" title="👋 Hi there! I'm (Vivek Kumar | https://####)"/>](https://####/)
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
