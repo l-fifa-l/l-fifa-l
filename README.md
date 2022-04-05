@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/gifs/hello.gif" alt="👋 Hi there! I'm (Vivek Kumar | https://vifa.vercel.app/)"  align="center" title="👋 Hi there! I'm (Vivek Kumar | https://vifa.vercel.app/)"/>](https://vifa.vercel.app/)
+[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/banner.svg" alt="👋 Hi there! I'm (Vivek Kumar | https://vifa.vercel.app/)"  align="center" title="👋 Hi there! I'm (Vivek Kumar | https://vifa.vercel.app/)"/>](https://vifa.vercel.app/)
 
 <h2> Hi, I'm Vivek Kumar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
