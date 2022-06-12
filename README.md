@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 <img width="55" src="https://cdn.svgporn.com/logos/python.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/rust.svg"/>
 </div>
-<h2>Frameworks<h2>
-<div align="left">
-
-<div>
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
