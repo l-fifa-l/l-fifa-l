@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h2>Programing Language<h2>
 <div align="left">
-[<img src="https://cdn.svgporn.com/logos/html-5.svg" width="50em" alt="HTML" title="HTML"/>]
+<img src="https://cdn.svgporn.com/logos/html-5.svg" width="55em" alt="HTML" title="HTML"/>
 <img width="55" src="https://cdn.svgporn.com/logos/html-5.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/css-3.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/javascript.svg"/>
