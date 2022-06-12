@@ -29,12 +29,11 @@ Here are some ideas to get you started:
 <h2>Programing Language<h2>
 <div align="left">
 <img src="https://cdn.svgporn.com/logos/html-5.svg" width="55em" alt="HTML" title="HTML"/>
-<img width="55" src="https://cdn.svgporn.com/logos/html-5.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/css-3.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/javascript.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/python.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/rust.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" title="CSS"/>
+<img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>
+<img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" title="c++"/>
+<img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" tilte="Python"/>
+<img width="55" src="https://cdn.svgporn.com/logos/rust.svg" alt="Rust" title="Rust"/>
 </div>
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
