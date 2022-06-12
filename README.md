@@ -1,19 +1,8 @@
 <!--
 **l-fifa-l/l-fifa-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/banner.svg" alt="👋 Hi there! I'm (Vivek Kumar | https://vifa.vercel.app/)"  align="center" title="👋 Hi there! I'm (Vivek Kumar | https://viv1.vercel.app/)"/>](https://viv1.vercel.app/)
+[<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/banner.svg" alt="👋 Hi there! I'm (Vivek Kumar | https://vifa.vercel.app/)"  align="center" title="👋 Hi there! I'm "/>](https://viv1.vercel.app/)
 
 <h2>Says Hello.<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
 
@@ -32,7 +21,16 @@ Here are some ideas to get you started:
 <img width="55" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" title="CSS"/>
 <img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>
 <img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" title="c++"/>
-<img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" tilte="Python"/>
+<img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" title="Python"/>
+<img width="55" src="https://cdn.svgporn.com/logos/rust.svg" alt="Rust" title="Rust"/>
+</div>
+<h2>Frameworks<h2>
+<div align="left">
+<img src="https://cdn.svgporn.com/logos/html-5.svg" width="55em" alt="HTML" title="HTML"/>
+<img width="55" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" title="CSS"/>
+<img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>
+<img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" title="c++"/>
+<img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" title="Python"/>
 <img width="55" src="https://cdn.svgporn.com/logos/rust.svg" alt="Rust" title="Rust"/>
 </div>
 
@@ -57,7 +55,7 @@ Here are some ideas to get you started:
   - 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙰𝚛𝚌𝚑 𝚞𝚜𝚒𝚗𝚐 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚕𝚒𝚗𝚎 (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
   - 𝙶𝚎𝚝 𝚊𝚗 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚓𝚘𝚋 (𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛, 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎)
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
