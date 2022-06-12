@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 <h2>Programing Language<h2>
 <div align="left">
-[Boostnote](<img width="55" src="https://cdn.svgporn.com/logos/html-5.svg"/>"Hover text")
+![HTML](src="https://cdn.svgporn.com/logos/html-5.svg" "San Juan Mountains")
+<img width="55" src="https://cdn.svgporn.com/logos/html-5.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/css-3.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/javascript.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg"/>
