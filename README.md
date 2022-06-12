@@ -22,7 +22,8 @@
 <img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" title="c++"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" title="Python"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/solidity.svg" alt="Solidty" title="Solidty"/>
+<img width="55" src="https://cdn.svgporn.com/logos/dart.svg" alt="Dart" title="Dart"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/solidity.svg" alt="Solidty" title="Solidty"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/rust.svg" alt="Rust" title="Rust"/>
 </div>
 
@@ -34,6 +35,7 @@
 <img width="55" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJS" title="NextJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/express.svg" alt="ExpressJS" title="ExpressJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" title="Flutter"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCSS" title="TailwindCSS"/>
 </div>
 
