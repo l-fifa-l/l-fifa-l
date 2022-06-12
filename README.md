@@ -15,8 +15,8 @@
 
 ## :heart_on_fire: My Tech Stack
 
-<h3>Programing Language<h3>
 <div align="left">
+<h4>Programing Language<h4>
 <img src="https://cdn.svgporn.com/logos/html-5.svg" width="55em" alt="HTML" title="HTML"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" title="CSS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
@@ -24,8 +24,9 @@
 <img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" title="Python"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/rust.svg" alt="Rust" title="Rust"/>
 </div>
-<h3>Frameworks<h3>
+
 <div align="left">
+<h3>Frameworks<h3>
 <img src="https://cdn.svgporn.com/logos/html-5.svg" width="55em" alt="HTML" title="HTML"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" title="CSS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
