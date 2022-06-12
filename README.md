@@ -16,23 +16,25 @@
 ## :heart_on_fire: My Tech Stack
 
 <div align="left">
-<h4>Programing Language<h4>
-<img src="https://cdn.svgporn.com/logos/html-5.svg" width="55em" alt="HTML" title="HTML"/>&nbsp;
+<h3>Programing Language<h3>
+<img width="55" src="https://cdn.svgporn.com/logos/html-5.svg"  alt="HTML" title="HTML"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" title="CSS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" title="c++"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" title="Python"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/solidity.svg" alt="Solidty" title="Solidty"/>
 <img width="55" src="https://cdn.svgporn.com/logos/rust.svg" alt="Rust" title="Rust"/>
 </div>
 
 <div align="left">
-<h3>Frameworks<h3>
-<img src="https://cdn.svgporn.com/logos/html-5.svg" width="55em" alt="HTML" title="HTML"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" title="CSS"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" title="c++"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" title="Python"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/rust.svg" alt="Rust" title="Rust"/>
+<h3>Frameworks & Libraries<h3>
+<img width="55" src="https://cdn.svgporn.com/logos/django-icon.svg" width="55em" alt="Django" title="Django"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" title="Node"/>
+<img width="55" src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" title="ReactJS"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJS" title="NextJS"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/express.svg" alt="ExpressJS" title="ExpressJS"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCSS" title="TailwindCSS"/>
 </div>
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
