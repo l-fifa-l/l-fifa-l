@@ -28,14 +28,17 @@ Here are some ideas to get you started:
 
 <h2>Programing Language<h2>
 <div align="left">
+<img width="55" src="https://cdn.svgporn.com/logos/html-5.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/css-3.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/javascript.svg"/>
 <img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/codefactor.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/coffeescript.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/glint.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jasmine.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/python.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/rust.svg"/>
 </div>
+<h2>Frameworks<h2>
+<div align="left">
+
+<div>
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
