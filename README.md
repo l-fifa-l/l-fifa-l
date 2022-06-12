@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 ## :heart_on_fire: My Tech Stack
 
-<div align="center">
+<h2>Programing Language<h2>
+<div align="left">
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/codefactor.svg"/>
