@@ -30,7 +30,7 @@
 <div align="left">
 <h3>Frameworks & Libraries<h3>
 <img width="55" src="https://cdn.svgporn.com/logos/django-icon.svg" width="55em" alt="Django" title="Django"/>&nbsp;
-<img width="55" src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" alt="MongoDB" title="MongoDB"/>&nbsp;
+<img width="55" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/express.svg" alt="ExpressJS" title="ExpressJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" title="ReactJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJS" title="NextJS"/>&nbsp;
