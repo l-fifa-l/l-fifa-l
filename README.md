@@ -31,7 +31,7 @@
 <h3>Frameworks & Libraries<h3>
 <img width="55" src="https://cdn.svgporn.com/logos/django-icon.svg" width="55em" alt="Django" title="Django"/>&nbsp;
 <img width="55" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/express.svg" alt="ExpressJS" title="ExpressJS"/>&nbsp;
+<img width="55" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" title="ExpressJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" title="ReactJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJS" title="NextJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" title="Node"/>
