@@ -30,11 +30,11 @@
 <div align="left">
 <h3>Frameworks & Libraries<h3>
 <img width="55" src="https://cdn.svgporn.com/logos/django-icon.svg" width="55em" alt="Django" title="Django"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" title="Node"/>
+<img width="55" src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/express.svg" alt="ExpressJS" title="ExpressJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" title="ReactJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJS" title="NextJS"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/express.svg" alt="ExpressJS" title="ExpressJS"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
+<img width="55" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" title="Node"/>
 <img width="55" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" title="Flutter"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCSS" title="TailwindCSS"/>
 </div>
@@ -65,8 +65,11 @@
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/facebook.png" height="40em" align="center" alt="Follow fifa on LinkedIn" title="Follow fifa on LinkedIn"/>](https://www.facebook.com/FxIxFxA/)
+
 [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/linkedin-circled.png" height="40em" align="center" alt="Follow fifa on LinkedIn" title="Follow fifa on LinkedIn"/>](https://linkedin.com/in/fifa)
+
 [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/twitter.png" height="40em" align="center" alt="Follow l__fifa__l on Twitter" title="Follow l__fifa__l on Twitter"/>](https://twitter.com/l__fifa__l)
+
 [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/instagram.png" height="40em" align="center" alt="Follow l_fifa_l on Instagram" title="Follow l_fifa_l on Instagram"/>](https://instagram.com/l_fifa_l)
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
